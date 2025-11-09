@@ -10,18 +10,39 @@ Me gusta aprender, mejorar mi código cada día y llevar las ideas hasta convert
 ## 🚀 Tecnologías que manejo
 
 <p align="left">
+
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+
+  <!-- React Native (mismo logo) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native" />
   
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  
+
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
   
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
-</p>
+  
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 
 ---
 
