@@ -38,6 +38,9 @@ Me gusta aprender, mejorar mi código cada día y llevar las ideas hasta convert
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="45" height="45" alt="Notion" />
+
+
 </p>
 
 
