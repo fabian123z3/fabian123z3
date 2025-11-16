@@ -57,7 +57,7 @@ Me gusta aprender, mejorar mi código cada día y llevar las ideas hasta convert
 ---
 
 ## 📫 Contacto
-Si querés conectar o colaborar en algo, siempre abierto:  
+Si quieres conectar o colaborar en algo, siempre abierto:  
 **Email:** *fabianvillablanca97@gmail.com*  
 **LinkedIn:** *https://www.linkedin.com/in/fabian-villablanca-29717b38a/*
 
