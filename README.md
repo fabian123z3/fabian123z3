@@ -42,6 +42,9 @@ Me gusta aprender, mejorar mi código cada día y llevar las ideas hasta convert
 
   <img src="https://www.make.com/favicon-32x32.png" width="45" height="45" alt="Make.com" />
 
+  <img src="https://ui.shadcn.com/apple-touch-icon.png" width="45" height="45" alt="shadcn/ui" />
+
+
 
 
 </p>
