@@ -44,6 +44,10 @@ Me gusta aprender, mejorar mi código cada día y llevar las ideas hasta convert
 
   <img src="https://ui.shadcn.com/apple-touch-icon.png" width="45" height="45" alt="shadcn/ui" />
 
+  <img src="https://n8n.io/favicon.ico" width="45" height="45" alt="n8n" />
+
+  <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="45" height="45" alt="Flutter" />
+
 
 
 
