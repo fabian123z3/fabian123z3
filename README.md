@@ -8,8 +8,8 @@ Me gusta crear productos funcionales, ordenados y listos para escalar.
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-0F172A?style=for-the-badge" alt="Frontend" />
   <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/Mobile-0EA5E9?style=for-the-badge" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Automation-F97316?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Movil-0EA5E9?style=for-the-badge" alt="Movil" />
+  <img src="https://img.shields.io/badge/Automatizacion-F97316?style=for-the-badge" alt="Automatizacion" />
 </p>
 
 ---
@@ -72,5 +72,5 @@ Me gusta crear productos funcionales, ordenados y listos para escalar.
 
 ## Contacto
 Si quieres conectar o colaborar en algo, siempre abierto:  
-**Email:** fabianvillablanca97@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/fabian-villablanca-29717b38a/
+📧 **Email:** fabianvillablanca97@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/fabian-villablanca-29717b38a/
